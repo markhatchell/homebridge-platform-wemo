@@ -15,7 +15,7 @@
         "homebridge": ">=0.4.1"
     },
     "dependencies": {
-        "wemo-client": ">=0.13.0",
+        "wemo-client": "https://github.com/markhatchell/wemo-client.git#master",
         "debug": "*"
     }
 }
